@@ -242,3 +242,76 @@
 .content-item-image {
     margin-top: 45px;
 }
+
+.last-menu {
+    text-align: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+
+.last-menu h1 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+
+.last-menu p {
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.last-item {
+    width: 650px;
+    height: 150px;
+    background-color: #fff4d6;
+    margin-top: 70px;
+    margin-left: 390px;
+    border-radius: 10px;
+}
+
+.last-item input {
+    margin-top: 60px;
+    background-color: #d9d9d9;
+    color: gray;
+    border: none;
+    border-radius: 7px;
+    padding: 15px 60px;
+}
+
+.last-item button {
+    padding: 15px 43px;
+    border: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff5959;
+    color: white;
+}
+
+footer {
+    height: 150px;
+    background-color: #0b0d17;
+
+    margin-top: 80px;
+}
+
+.footer-menu {
+    color: #A72d41;
+    margin-top: 10px;
+    justify-content: center;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    text-align: center;
+
+
+}
+
+.footer-menu h2 {
+    color: #A72d41;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+.footer-menu {
+    color: #5b758a;
+}
