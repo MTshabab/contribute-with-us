@@ -161,7 +161,7 @@
 
 .third-section {
     display: flex;
-    margin-top: 40px;
+    margin-top: 68px;
 }
 
 .half-width {
@@ -195,4 +195,50 @@
 
     color: #a3a3a3;
     margin-bottom: 37px;
+}
+
+.wrapper {
+    background-color: gray;
+    margin-top: 70px;
+
+}
+
+.wrapper h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 55px;
+}
+
+.content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.content-item {
+    background-color: #ebe3e3cc;
+    margin: 5px;
+    width: 300px;
+    padding: 20px;
+    color: #ff5959;
+    border-radius: 10px;
+    margin-bottom: 45px;
+}
+
+.content-item h2 {
+    font-size: 22px;
+    color: #cd3838;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+
+.role {
+    margin: 10;
+    color: black;
+}
+
+.content-item-image {
+    margin-top: 45px;
 }
